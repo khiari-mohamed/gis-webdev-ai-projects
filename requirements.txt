@@ -1,0 +1,12 @@
+tensorflow==2.16.1
+rasterio
+tifffile
+flask
+numpy
+pandas
+matplotlib
+streamlit
+qutip
+qiskit
+keras
+pennylane
